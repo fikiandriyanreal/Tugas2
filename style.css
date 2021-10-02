@@ -1,0 +1,22 @@
+body {
+  background: #35a9db;
+  font-family: roboto;
+  text-align: left;
+  color: #fff;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+.misi {
+  text-align: left;
+}
+
+p {
+  font-family: Courier;
+}
